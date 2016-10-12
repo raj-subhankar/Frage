@@ -23,7 +23,7 @@ import java.util.regex.Pattern;
 
 public class MyData {
 
-    final public static String apiname = "private";
+    final public static String apiname = "Your_API_key";
     public static int type = 0;
     public static Context context = MyApplication.getInstance().getApplicationContext();
     public static HashSet<String> tags = new HashSet<>();
