@@ -1,8 +1,8 @@
 # Questo
 
-<a href="https://play.google.com/store/apps/details?id=com.tdevelopers.questo">Questo</a>
+<a href="https://play.google.com/store/apps/details?id=com.tdevelopers.questo">Frage</a>
 
-Questo is crowd sourced application, in which an authenticated user can upload a MCQ or write a blog/feed with tags included.
+Frage is crowd sourced application, in which an authenticated user can upload a MCQ or write a blog/feed with tags included.
 
 Leadership board is shown with users all over the world. 
 User can follow other people and Tags.
