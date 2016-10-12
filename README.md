@@ -33,7 +33,7 @@ Integrated with Quora & Stack Exchange
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/screener_20160919(00_09_18).png" width="200"/>
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/screener_20161011(14_28_08).png" width="200"/>
 <img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/screener_20160919(00_11_13).png" width="200"/>
-<img src="https://raw.github.com/saitejdandge/Questo/master/Screenshots/screener_20161011(14_11_57).png" width="200"/>
+
 
 
 
